@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "login": "mauriciorimes",
+      "id": 1,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86366028?s=400&u=dc54c2dca1dbfc15a60bf5a3faba8532e336fb2b&v=4",
+      "name": "Mauricio Rimes Vieira",
+      "email": "mauriciorimes@gmail.com",
+      "followers": 9,
+      "following": 7
+    },
+    {
+      "login": "nataliakt",
+      "id": 2,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+      "name": "Natalia Kelim Thiel",
+      "email": "natalia@email.com",
+      "followers": 51,
+      "following": 7
+    }
+  ],
+  "repos": [
+    {
+      "name": "mauriciorimes",
+      "data": "Oct 25 2021",
+      "postId": 1,
+      "id": 2
+    },
+    {
+      "name": "InstitutoFederalFluminense",
+      "data": "August 12 2019",
+      "postId": 1,
+      "id": 3
+    },
+    {
+      "name": "UniversidadeFederalDoRioDeJaneiro",
+      "data": "November 1 2021",
+      "postId": 1,
+      "id": 4
+    },
+    {
+      "id": 1,
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    }
+  ]
+}
